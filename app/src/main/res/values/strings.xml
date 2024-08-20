@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppRecyclerTabList</string>
+    <string name="imagem_filmes">imagem-filmes</string>
+    <string name="jogos_vorazes">Jogos Vorazes</string>
 </resources>
